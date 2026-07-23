@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://facilitate-quoted-vector-statutory.trycloudflare.com/vnc.html
+URL       : https://cattle-involved-necessity-ruby.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-23 03:34:07
+Created   : 2026-07-23 07:41:18
 =======================================================
