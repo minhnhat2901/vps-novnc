@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sociology-slow-diamonds-recording.trycloudflare.com/vnc.html
+URL       : https://scholar-lamps-sum-satisfied.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 09:34:32
+Created   : 2026-09-10 14:17:40
 =======================================================
