@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://boom-turn-resolve-seas.trycloudflare.com/vnc.html
+URL       : https://meanwhile-radical-adapted-belkin.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 23:42:29
+Created   : 2026-10-03 04:59:06
 =======================================================
