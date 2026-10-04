@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shanghai-introductory-properties-murphy.trycloudflare.com/vnc.html
+URL       : https://publishing-soul-zealand-book.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 15:16:36
+Created   : 2026-10-04 22:59:55
 =======================================================
