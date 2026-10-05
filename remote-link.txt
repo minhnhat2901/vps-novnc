@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://publishing-soul-zealand-book.trycloudflare.com/vnc.html
+URL       : https://leg-somerset-cool-amendments.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 22:59:55
+Created   : 2026-10-05 05:14:30
 =======================================================
