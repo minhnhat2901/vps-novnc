@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://processed-clara-concert-earliest.trycloudflare.com/vnc.html
+URL       : https://joins-main-duke-mounting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 10:04:00
+Created   : 2026-10-14 19:17:38
 =======================================================
