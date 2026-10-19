@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://jobs-recently-vault-lit.trycloudflare.com/vnc.html
+URL       : https://lot-eyed-sense-portable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-19 04:18:36
+Created   : 2026-10-19 10:40:43
 =======================================================
