@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://locale-marking-ruth-strong.trycloudflare.com/vnc.html
+URL       : https://basename-junction-oecd-follows.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 22:27:28
+Created   : 2026-10-26 04:22:25
 =======================================================
