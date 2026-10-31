@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://walnut-vic-teams-each.trycloudflare.com/vnc.html
+URL       : https://artificial-allocated-algebra-buildings.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-31 05:10:25
+Created   : 2026-10-31 15:43:19
 =======================================================
