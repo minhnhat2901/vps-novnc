@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pic-harper-action-refinance.trycloudflare.com/vnc.html
+URL       : https://arnold-maui-linux-committed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 05:40:41
+Created   : 2026-11-01 16:45:07
 =======================================================
