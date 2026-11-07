@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://alias-insulation-recording-reads.trycloudflare.com/vnc.html
+URL       : https://quest-detected-codes-damages.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 05:40:17
+Created   : 2026-11-07 16:17:38
 =======================================================
