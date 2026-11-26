@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bottle-later-rocky-saves.trycloudflare.com/vnc.html
+URL       : https://indicates-framework-options-lincoln.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-26 02:45:44
+Created   : 2026-11-26 14:58:46
 =======================================================
